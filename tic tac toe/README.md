@@ -1,1 +1,1 @@
-live_demo : http://127.0.0.1:59676/index.html
+live_demo : https://tic-tac-toe-yc.netlify.app
